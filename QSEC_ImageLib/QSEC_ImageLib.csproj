@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Image.cs" />
     <Compile Include="ImageInfo.cs" />
     <Compile Include="Interfaces\IImageInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
