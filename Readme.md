@@ -21,10 +21,10 @@ If you would like to contribute to the project
 
 1. **Fork** the project by pressing the the Fork button at https://github.com/TessFerrandez/QSEC_ImageFramework
 2. **Clone** the forked project to your machine
-3. Find a task (**Issue**) at https://github.com/TessFerrandez/QSEC_ImageFramework/issues
+3. Pick a **task** from the new column in https://github.com/TessFerrandez/QSEC_ImageFramework/projects/1 assign it to yourself and move it to **ongoing** to indicate that you are working on it.
 4. Commit the work to your forked repository regularly
+5. When you have completed a task. Create a **pull request** to merk the work into the main repository. At the same time, move the task on the project board to the PR column.
 
-When you have completed a task. Create a **pull request** to merk the work into the main repository.
 This is how you can create a PR: https://help.github.com/desktop/guides/contributing-to-projects/creating-a-pull-request/
 
 ## Coding standards
